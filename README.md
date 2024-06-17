@@ -1,2 +1,2 @@
 # portafolio
-En procedo de construcción 
+En proceso de construcción 
